@@ -1,4 +1,4 @@
-# javascript-challenge
+
 # JavaScript and DOM Manipulation
 
 ## Background
@@ -57,10 +57,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 - - -
 
-**Good luck!**
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
